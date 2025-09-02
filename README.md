@@ -55,12 +55,6 @@ Key Insights
   - Benefits significantly affect likelihood of treatment  
   - Age is **not a strong factor** in treatment-seeking  
 
----
 
-## How to Run  
 
-###  1. Clone the Repository  
-```bash
-git clone https://github.com/<your-username>/mental-health-in-tech.git
-cd mental-health-in-tech
 
